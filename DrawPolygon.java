@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.*;
 
-public class DrawPolygons extends Component{
+class DrawPolygons extends Component{
     private ArrayList<String> polygonNames;
     private ArrayList<Point>  centerPoints;
 
